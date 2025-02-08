@@ -8,4 +8,6 @@ you/your team's Submission Repository will have 4 CSFs.
 
 In each Challenge Submission Folder (CSF) there should be your code files as well as a .zip file containing the submission requirements for each challenge. The code files (whichever language it may be) should contain all the code you/your team created when training your models.
 
+Have fun hacking! (or data-ing...)
+
 \- Marcus, Winston, and the CxC 2025 Organizing Team
